@@ -61,7 +61,7 @@
 // @match           https://*.blogtruyen.top/*
 // @match           https://truyensieuhay.com/*
 // @match           http://truyenqqvn.com/*
-// @match           http://truyenqqvn.net/*
+// @match           http://truyenqqno.com/*
 // @match           http://truyenqqtop.com/*
 // @match           http://truyenqqpro.com/*
 // @match           https://hentaicube.net/*
@@ -161,7 +161,7 @@ jQuery(function ($) {
     'mangaqq.com',
     'truyenqqvn.net',
     'truyenqqvn.com',
-    'truyenqqtop.com',
+    'truyenqqno.com',
     'truyenqqpro.com',
     '.upanhmoi.net',
     'qqtaku.com',
@@ -213,7 +213,7 @@ jQuery(function ($) {
     'ocumeo.com': 'https://www.a3manga.com/',
     'www.ocumeo.com': 'https://www.a3manga.com/',
     'mangaqq.net': 'http://truyenqqpro.com/',
-    'mangaqq.com': 'http://truyenqqpro.com/',
+    'mangaqq.com': 'http://truyenqqno.com/',
     'truyenqq.net': 'http://truyenqqpro.com/',
     'truyenvua.xyz': 'http://truyenqqpro.com/',
     'i02.hentaivn.net': 'https://hentaivn.net/',
@@ -1434,7 +1434,7 @@ jQuery(function ($) {
       break;
     case 'truyenqq.com':
     case 'truyenqq.net':
-    case 'truyenqqtop.com':
+    case 'truyenqqno.com':
     case 'truyenqqpro.com':
       configs = {
         link: '.works-chapter-list a',
