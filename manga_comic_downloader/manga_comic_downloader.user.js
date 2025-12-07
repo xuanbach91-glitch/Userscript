@@ -63,7 +63,7 @@
 // @match           http://truyenqqvn.com/*
 // @match           http://truyenqqvn.net/*
 // @match           http://truyenqqtop.com/*
-// @match           http://truyenqqpro.com/*
+// @match           http://truyenqqno.com/*
 // @match           https://hentaicube.net/*
 // @match           https://hentaicb.top/*
 // @match           http://*.tuthienbao.com/*
@@ -162,7 +162,7 @@ jQuery(function ($) {
     'truyenqqvn.net',
     'truyenqqvn.com',
     'truyenqqtop.com',
-    'truyenqqpro.com',
+    'truyenqqno.com',
     '.upanhmoi.net',
     'qqtaku.com',
     'qqtaku.net',
@@ -212,7 +212,7 @@ jQuery(function ($) {
     'storage.fshare.vn': 'https://truyentranh.net',
     'ocumeo.com': 'https://www.a3manga.com/',
     'www.ocumeo.com': 'https://www.a3manga.com/',
-    'mangaqq.net': 'http://truyenqqpro.com/',
+    'mangaqq.net': 'http://truyenqqno.com/',
     'mangaqq.com': 'http://truyenqqpro.com/',
     'truyenqq.net': 'http://truyenqqpro.com/',
     'truyenvua.xyz': 'http://truyenqqpro.com/',
@@ -1432,7 +1432,7 @@ jQuery(function ($) {
         init: getTruyenSieuHay,
       };
       break;
-    case 'truyenqq.com':
+    case 'truyenqqno.com':
     case 'truyenqq.net':
     case 'truyenqqtop.com':
     case 'truyenqqpro.com':
